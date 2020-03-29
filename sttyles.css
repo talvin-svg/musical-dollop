@@ -1,0 +1,67 @@
+body{
+	font-size: 16px;
+	color:black;
+	font-family: monospace, sans-serif;
+}
+
+/** Header**/
+#header-nav {
+	background-color : pink;
+	border-radius: 0; /** removed rounded border edge **/
+	border: 0;
+}
+
+.navbar-brand {
+	padding-top: 25px;
+}
+
+.navbar-brand h1{ /* restaurant name */
+	width: 150px;
+	height: 100px;
+	margin: 0px 15px 20px 0;
+	line-height: 0.5;
+    font-size: 2em;
+}	
+
+}
+#nav-list a:hover{         /* Determiens the color of the menu bar w
+	                          when the mouse hovers over it */
+	background: #E7E7E7;
+
+}
+#nav-list a span{        /*aligns text in dropdown menu to center*/
+	font-size:1em;
+	text-align: center;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+border: 1px solid pink;
+}
+
+/* End of Header */
+
+
+ #hhhh {
+	text-align: center;
+	font-weight: bold;
+	font-size:1.9em;
+	margin-bottom: 10px;
+}
+
+.container #hhh{
+	text-align: center;
+}
+
+.container>#yellow {
+	background-color: grey;
+
+}
+
+
+
+
+
+
+
+
+
